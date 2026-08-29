@@ -78,6 +78,8 @@ The Transfer chamber is sealed through the sheeting with a compressing fitting o
 
 <img width="3024" height="4032" alt="IMG_2382" src="https://github.com/user-attachments/assets/b3738212-2136-483a-bdf6-c320229190ba" />
 
+A side view, showing the patient side on the left and the clean side on the right.
+
 <img width="3024" height="4032" alt="IMG_2383" src="https://github.com/user-attachments/assets/83dcd875-1a3d-4760-abce-4d6380fe59b6" />
 
 <img width="3024" height="4032" alt="IMG_2384" src="https://github.com/user-attachments/assets/73764dc4-9465-4b04-b929-492c36705a17" />
