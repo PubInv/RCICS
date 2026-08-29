@@ -34,6 +34,22 @@ Dimensions of the full design:
 4. Transfer chamber length: 18"
 5. Medical tubing O.D.: 1"
 6. Medical tubing length: 18" (but bent or shaped into strong vertical shape).
+
+
+## Photos of the Model
+
+<img width="3024" height="4032" alt="IMG_2386" src="https://github.com/user-attachments/assets/d8ce151e-83e7-413a-aeef-c1f74d093c24" />
+<img width="3024" height="4032" alt="IMG_2385" src="https://github.com/user-attachments/assets/4149f6c5-558a-4500-8114-27967f3f269d" />
+<img width="3024" height="4032" alt="IMG_2384" src="https://github.com/user-attachments/assets/73764dc4-9465-4b04-b929-492c36705a17" />
+<img width="3024" height="4032" alt="IMG_2383" src="https://github.com/user-attachments/assets/83dcd875-1a3d-4760-abce-4d6380fe59b6" />
+<img width="3024" height="4032" alt="IMG_2382" src="https://github.com/user-attachments/assets/b3738212-2136-483a-bdf6-c320229190ba" />
+<img width="3024" height="4032" alt="IMG_2381" src="https://github.com/user-attachments/assets/2aef48f0-a5dd-46e9-aee6-fcc152e76003" />
+<img width="3024" height="4032" alt="IMG_2380" src="https://github.com/user-attachments/assets/eeb5163c-ea39-4521-93ca-bed490e1e27c" />
+<img width="3024" height="4032" alt="IMG_2379" src="https://github.com/user-attachments/assets/fedd5a5c-fc61-4c3b-8148-df939904d914" />
+<img width="3024" height="4032" alt="IMG_2378" src="https://github.com/user-attachments/assets/8396ef44-cab3-4adb-a035-51554d2992dd" />
+<img width="3024" height="4032" alt="IMG_2377" src="https://github.com/user-attachments/assets/e10c4ba4-9dbc-4ebf-ad8a-81ee2feed4ff" />
+<img width="3024" height="4032" alt="IMG_2376" src="https://github.com/user-attachments/assets/a2d8421f-6a05-4ab6-983f-074b5461bcc7" />
+
    
    
 
