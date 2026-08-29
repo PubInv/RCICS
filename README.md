@@ -48,9 +48,14 @@ On August 29th, 2026, Rob made a 1/8th scale model depicted below based on ideas
 7. The door is to scale, but steel doors would likely be better than wooden doors. If a wooden door is used, it should be covered in plastic sheeting.
 8. This model does not discuss the sealing of the "sweep" or the "jam" of the door.
 
-This is a view of the "Clean side", where nurses may observe and interact with the patient:
+This is a view of the "Clean side", where nurses may observe and interact with the patient.
+As would be typical, both "doors" of the transfer chamber are closed (these are the PVC caps.)
 
 <img width="3024" height="4032" alt="IMG_2376" src="https://github.com/user-attachments/assets/a2d8421f-6a05-4ab6-983f-074b5461bcc7" />
+
+The infectious/patient side is depicted below. Strips of extruded metal are used to compress the polyethylene
+sheeting against a gasket pressed against the door with sheet metal screws drilled through 
+the L-beam, gasket, polyethylene, and metal of the door.
 
 <img width="3024" height="4032" alt="IMG_2377" src="https://github.com/user-attachments/assets/e10c4ba4-9dbc-4ebf-ad8a-81ee2feed4ff" />
 
