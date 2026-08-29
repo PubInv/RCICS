@@ -67,6 +67,8 @@ A close-up of screws into the metal strip pressing the sheeting against the door
 
 <img width="3024" height="4032" alt="IMG_2379" src="https://github.com/user-attachments/assets/fedd5a5c-fc61-4c3b-8148-df939904d914" />
 
+A close-up of the "medical tubing port". Note a wire (brown cord) can be use for strain relief. This tube is intentional "bent" or curved so that droplets have to go upward against gravity to get through the tube. (This tube will also have "cross-cut straw holes" to mostly block fluid droplets.)
+
 <img width="3024" height="4032" alt="IMG_2380" src="https://github.com/user-attachments/assets/eeb5163c-ea39-4521-93ca-bed490e1e27c" />
 
 <img width="3024" height="4032" alt="IMG_2381" src="https://github.com/user-attachments/assets/2aef48f0-a5dd-46e9-aee6-fcc152e76003" />
