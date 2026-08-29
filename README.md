@@ -61,6 +61,8 @@ the L-beam, gasket, polyethylene, and metal of the door.
 
 <img width="3024" height="4032" alt="IMG_2377" src="https://github.com/user-attachments/assets/e10c4ba4-9dbc-4ebf-ad8a-81ee2feed4ff" />
 
+A close-up of screws into the metal strip pressing the sheeting against the door (there is no gasket in this model).
+
 <img width="3024" height="4032" alt="IMG_2378" src="https://github.com/user-attachments/assets/8396ef44-cab3-4adb-a035-51554d2992dd" />
 
 <img width="3024" height="4032" alt="IMG_2379" src="https://github.com/user-attachments/assets/fedd5a5c-fc61-4c3b-8148-df939904d914" />
