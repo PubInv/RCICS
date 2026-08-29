@@ -82,6 +82,9 @@ A side view, showing the patient side on the left and the clean side on the righ
 
 <img width="3024" height="4032" alt="IMG_2383" src="https://github.com/user-attachments/assets/83dcd875-1a3d-4760-abce-4d6380fe59b6" />
 
+The transfer chamber has two caps or "doors". These are simple PVC camps with a retaining wire, so that 
+when they are removed the don't fall onto the floor.
+
 <img width="3024" height="4032" alt="IMG_2384" src="https://github.com/user-attachments/assets/73764dc4-9465-4b04-b929-492c36705a17" />
 
 <img width="3024" height="4032" alt="IMG_2385" src="https://github.com/user-attachments/assets/4149f6c5-558a-4500-8114-27967f3f269d" />
