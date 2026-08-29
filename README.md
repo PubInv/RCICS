@@ -71,6 +71,8 @@ A close-up of the "medical tubing port". Note a wire (brown cord) can be use for
 
 <img width="3024" height="4032" alt="IMG_2380" src="https://github.com/user-attachments/assets/eeb5163c-ea39-4521-93ca-bed490e1e27c" />
 
+The Transfer chamber is sealed through the sheeting with a compressing fitting or "flange". In 1" PVC, this is a threaded screw, but in larger sized is would likely be slip-on bushing or bolted "flanges".
+
 <img width="3024" height="4032" alt="IMG_2381" src="https://github.com/user-attachments/assets/2aef48f0-a5dd-46e9-aee6-fcc152e76003" />
 
 
