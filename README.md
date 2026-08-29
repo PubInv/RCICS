@@ -48,6 +48,8 @@ On August 29th, 2026, Rob made a 1/8th scale model depicted below based on ideas
 7. The door is to scale, but steel doors would likely be better than wooden doors. If a wooden door is used, it should be covered in plastic sheeting.
 8. This model does not discuss the sealing of the "sweep" or the "jam" of the door.
 
+   Note that the window if off-center; it should be placed closer to the hinge side of the door, so that opening and closing the door creates minimal motion of the tubes in the tube port.
+
 This is a view of the "Clean side", where nurses may observe and interact with the patient.
 As would be typical, both "doors" of the transfer chamber are closed (these are the PVC caps.)
 
