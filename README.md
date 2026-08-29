@@ -38,6 +38,18 @@ Dimensions of the full design:
 
 ## Photos of the Model
 
+On August 29th, 2026, Rob made a 1/8th scale model depicted below based on ideas generated with Nagham, Courtney, and Jack. It is of course imperfect, but approximately accurately:
+1. We commend "L"-beam extruded aluminum strips rather that flat bars as shown in the model.
+2. The model has no gasket, but one is advised.
+3. There is a bracket cut of foamcore holding up the transfer chamber; this would be a metal shelf bracket at scale.
+4. The polyethelyne sheet is cut from a food storage baggie; a thicker material would be avisedly used.
+5. The 8" PVC in the full-scale design is simulated with 1" PVC.
+6. A drinking straw simulates the 1" PVC that forms the "medical tube port" for thin tubes, such as oxygen.
+7. The door is to scale, but steel doors would likely be better than wooden doors. If a wooden door is used, it should be covered in plastic sheeting.
+8. This model does not discuss the sealing of the "sweep" or the "jam" of the door.
+
+This is a view of the "Clean side", where nurses may observe and interact with the patient:
+
 <img width="3024" height="4032" alt="IMG_2376" src="https://github.com/user-attachments/assets/a2d8421f-6a05-4ab6-983f-074b5461bcc7" />
 
 <img width="3024" height="4032" alt="IMG_2377" src="https://github.com/user-attachments/assets/e10c4ba4-9dbc-4ebf-ad8a-81ee2feed4ff" />
