@@ -87,7 +87,11 @@ when they are removed the don't fall onto the floor.
 
 <img width="3024" height="4032" alt="IMG_2384" src="https://github.com/user-attachments/assets/73764dc4-9465-4b04-b929-492c36705a17" />
 
+The same retaining method is on the clean side.
+
 <img width="3024" height="4032" alt="IMG_2385" src="https://github.com/user-attachments/assets/4149f6c5-558a-4500-8114-27967f3f269d" />
+
+Although the two open doors shouldn't be open at the same time, this shows that the chamber is open.
 
 <img width="3024" height="4032" alt="IMG_2386" src="https://github.com/user-attachments/assets/d8ce151e-83e7-413a-aeef-c1f74d093c24" />
 
