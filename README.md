@@ -95,6 +95,7 @@ Although the two open doors shouldn't be open at the same time, this shows that 
 
 <img width="3024" height="4032" alt="IMG_2386" src="https://github.com/user-attachments/assets/d8ce151e-83e7-413a-aeef-c1f74d093c24" />
 
+<img width="1086" height="1449" alt="MountingTC" src="https://github.com/user-attachments/assets/5737ce9a-323e-4204-b0e1-47b3147fd713" />
 
    
    
