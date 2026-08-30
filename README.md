@@ -97,8 +97,22 @@ Although the two open doors shouldn't be open at the same time, this shows that 
 
 <img width="1086" height="1449" alt="MountingTC" src="https://github.com/user-attachments/assets/5737ce9a-323e-4204-b0e1-47b3147fd713" />
 
-   
-   
+Here's a similar model: https://cdn.who.int/media/docs/default-source/documents/emergencies/initiate-idtm-technical-report_20231016.pdf?download
 
+This is a WHO design for an isolation module for containment...it contains all the medical equipment that was passed through, so based on the document, I made a list of every single pass-through required: 
+
+- Respiratory Port: oxygen, ventilator, CPAP, BiPAP, HFNC/HFNO tubing
+- Patient Fluid Port: IV infusion, medication, feeding, nasogastric, urinary drainage tubing
+- Suction Port: suction tubing for mucus, blood, saliva, phlegm, and other fluids
+- Monitoring and Power Port: ECG, SpO2, temperature, EtCO2, blood-pressure cables, power and data cables. 
+
+And at least 1 pass-through opening to transfer large materials, i.e., meals. (As mentioned on GitHub - the transfer chamber). For the ports, it should also be sealable when not in use...and include a securement feature. Based on all of that, I found a few commercial ports that are used for similar reasons, but we have to modify them.
+
+1) 1.20" ID - Ext. Length. Fits or Barrier Thickness Range of 5 1/4"-7 1/8". This Unit Provides a Fully Dressed Opening Completely or Barrier. (https://www.amazon.ae/Wall-Cable-Pass-Through-Port/dp/B07SVL5D3T) - It's around 25 dollars. 
+2) BulkHead Male Connector: https://www.krelson.com/products/bulkhead-male-connector/
+[Bulkhead male connectors pass instrumentation tubing through panels, walls, enclosures, or pressure boundaries while maintaining a sealed penetration point.] Moreover, it specifically mentions "Hazardous area enclosure boundary crossings" - around 3 dollars.
+3) ATLAS Scientific BulkHead: The Atlas Scientific Bulkhead provides a reliable and watertight connection point in plumbing systems, ensuring secure passage for tubing through container/tank walls or barriers. (https://atlas-scientific.com/plumbing/bulkhead/) - around 4 dollars. 
+
+I found a "wall airlock passthrough" which was mentioned in this paper:  Feasibility Assessment of a Novel Isolation Care Tent in Uganda During the 2022 Sudan ebolavirus Outbreak. They used it for the transfer of materials (eg: food) without allowing contamination in or out. Although the average one costs around 2k dollars...I did find some alternatives - we could use this: https://wiskindcleanroom.en.made-in-china.com/product/PBmEgLnAmNYu/China-Cleanroom-Integrated-Supplier-Air-Lock-Interloack-Pass-Box-for-Pharm-Plant.html?pv_id=1k19vboic302&faw_id=1k19vbvbic4a&bv_id=1k19vc4a9a1f&pbv_id=1k19vbmppc39n - this is the cheapest transfer hacht that I could find (30 dollars apprx)...
 
 
