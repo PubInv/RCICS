@@ -22,7 +22,7 @@ An initial design what we can call the "August Design" is depicted above. It fea
 1. Standard doors with a modular port cut 18" wide and 24" high in the door.
 2. A polyethylene sheeting as a view window.
 3. A "transfer chamber" made of 8" PVC tubing with two doors (end caps) which are never opened at the same time. Possibly this can decreased to 6.625" and or 4.5" OD, all of which are standard PVC sizes.
-4. Wire strain relief consisting of wires hooked onto the top bar to support the weight of the transfer chamber and the 
+4. L-shaped metal bracket is mounted between the bottom bar and the transfer chamber to support the chamber’s weight and reduce mechanical strain. Metal retaining wires pass through the bracket and wrap around the transfer chamber to secure it firmly in place.
 5. A medical tubing port with "cross-cut straw holes" and a vertical bend to create a torturous path for droplets. This port is on the hinge side to limit pulling on tubes.
 6. Sheeting clamps consisting of rigid aluminum L-shaped beams to compress the poly sheeting against a gasket.
 7. A "flange" (or two) which seal the circular holes of the transfer chamber and the tubing port.
