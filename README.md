@@ -20,8 +20,8 @@ pre-existed the current Bundibugyo strain outbreak of Ebola in the Congo (and a 
 
 An initial design what we can call the "August Design" is depicted above. It features:
 1. Standard doors with a modular port cut 18" wide and 24" high in the door.
-2. A polyethylene sheeting as a view window.
-3. A "transfer chamber" made of 8" PVC tubing with two doors (end caps) which are never opened at the same time. Possibly this can decreased to 6.625" and or 4.5" OD, all of which are standard PVC sizes.
+2. A polyethylene sheeting as a view window, preferable "4 mill" (0.004 inches or 0.1016 millimeters), which is widely available.
+3. A "transfer chamber" made of 4" PVC tubing with two doors (end caps) which are never opened at the same time. A ["van stone" flange](https://www.pvcfittingsonline.com/blogs/resource-center/all-about-that-flange?matchtype=&network=x&device=c&adposition=&keyword=&gad_source=1&gad_campaignid=21850952325&gbraid=0AAAAADnhsLQWURDrojMrGvh3YkCXCluhK&gclid=CjwKCAjwnvTUBhBoEiwAZNDxZwtZNgbeVpznqZYXTeLybFy8HgAd7Q-8_SQyePftPOKHmRpMhHM7yhoC51sQAvD_BwE) may be an effective way to seal this against the poly sheeting as it pierces it.
 4. L-shaped metal bracket is mounted between the bottom bar and the transfer chamber to support the chamber’s weight and reduce mechanical strain. Metal retaining wires pass through the bracket and wrap around the transfer chamber to secure it firmly in place.
 5. A medical tubing port with "cross-cut straw holes" and a vertical bend to create a torturous path for droplets. This port is on the hinge side to limit pulling on tubes.
 6. Sheeting clamps consisting of rigid aluminum L-shaped beams to compress the poly sheeting against a gasket.
