@@ -97,6 +97,11 @@ Although the two open doors shouldn't be open at the same time, this shows that 
 
 <img width="1086" height="1449" alt="MountingTC" src="https://github.com/user-attachments/assets/5737ce9a-323e-4204-b0e1-47b3147fd713" />
 
+<img width="232" height="333" alt="Screenshot 2026-09-10 at 16 19 15" src="https://github.com/user-attachments/assets/d7c54113-0988-472c-b78c-c46064b228ab" />
+
+<img width="312" height="318" alt="Screenshot 2026-09-10 at 16 19 50" src="https://github.com/user-attachments/assets/30c14d80-71f7-4363-923c-201930a36692" />
+<img width="264" height="359" alt="Screenshot 2026-09-10 at 16 19 37" src="https://github.com/user-attachments/assets/8793101c-0ff4-4ad9-8d2e-d9a265d29702" />
+
 Here's a similar model: https://cdn.who.int/media/docs/default-source/documents/emergencies/initiate-idtm-technical-report_20231016.pdf?download
 
 This is a WHO design for an isolation module for containment...it contains all the medical equipment that was passed through, so based on the document, I made a list of every single pass-through required: 
