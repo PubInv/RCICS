@@ -1,13 +1,23 @@
 Question to ask clincal staff
 
 Q1. Importance of a transfer chamber/ hatch? 
+
 Q2. how often would full patient interaction be required & Which minimum patient-care functions must cross the barrier, and which functions should remain inside the patient area?
+
 Q3. what daily/ hourly tasks are required?
+
 Q4. where will the equipment get power from ?
+
 Q5. what problem will the door solve?
+
 Q6.	Which door types, dimensions, fire-safety requirements, emergency-egress requirements, and local fabrication capabilities must the system support?
+
 Q7.	Which cleaning agents and infection-prevention procedures are mandatory in the intended setting?
+
 Q8.	What level of containment performance must be demonstrated, which test methods should be used, and which authority should approve the acceptance criteria?
-Q9. Should the transfer chamber incorporate a mechanical interlock to prevent both closures from being opened simultaneously, or could a procedural control be acceptable during early feasibility testing?7. 
+
+Q9. Should the transfer chamber incorporate a mechanical interlock to prevent both closures from being opened simultaneously, or could a procedural control be acceptable during early feasibility testing?
+ 
 Q10. Which medical tubing, cables, connectors, and equipment must pass through the barrier?
+
 Q11. How should unused tubing-port capacity be closed and sealed?
