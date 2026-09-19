@@ -14,7 +14,7 @@ The active design iteration is:
 
 ## Historical snapshots
 
-- August 2026 concept: `august-design-v0.2`
+- August 2026 concept: `v1.0.0_AugustDesign`
 - [August design summary](designs/august-2026/AgustDesignNotes.md)
  
 ## Project documentation
